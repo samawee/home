@@ -3425,3 +3425,8 @@
 			}
 
 	}
+iframe.googlemaps {
+    float: left;
+    width: 50%;
+    clear: none;
+}
