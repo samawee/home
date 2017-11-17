@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #ffffff;
+			background-color: #3399ff;
 			color: #c7ebe8;
 		}
 
@@ -3770,10 +3770,10 @@
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
+		background-image: linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3791,10 +3791,10 @@
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(51,153,255,0.5), rgba(51,153,255,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
+		background-image: linear-gradient(top, rgba(30,17,219,0.5), rgba(30,17,219,0.5)), url("../../images/banner.jpg");
 		background-repeat: no-repeat;
 	}
 
