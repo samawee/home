@@ -1976,6 +1976,7 @@
 			.image.fit img {
 				width: 100%;
 				max-width: 1120px;
+				max-height: 700px;
 				margin: 0 auto;
 			}
 
